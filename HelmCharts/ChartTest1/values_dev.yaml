@@ -1,0 +1,5 @@
+deployment:
+  replicas: 1
+
+image:
+  args: ["-text='Dev was here'"]
